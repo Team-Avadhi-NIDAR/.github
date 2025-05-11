@@ -5,8 +5,8 @@ Here we have the following
 1. [Reports](https://github.com/Team-Avadhi-NIDAR/Reports)
 2. [Codes](https://github.com/Team-Avadhi-NIDAR/Code)
 3. [Minutes of Meeting](https://github.com/Team-Avadhi-NIDAR/MOM)
-4. [Delivery Drone Models](git@github.com:Team-Avadhi-NIDAR/Delivery_Drone)
-5. [Scouting Drone Models](git@github.com:Team-Avadhi-NIDAR/Scouting_Drone)
+4. [Delivery Drone Models](https://github.com/Team-Avadhi-NIDAR/Delivery_Drone)
+5. [Scouting Drone Models](https://github.com/Team-Avadhi-NIDAR/Scouting_Drone)
 
 ## Members 
 
