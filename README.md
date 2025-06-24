@@ -8,6 +8,7 @@ Here we have the following
 4. [Delivery Drone Models](https://github.com/Team-Avadhi-NIDAR/Delivery_Drone)
 5. [Scouting Drone Models](https://github.com/Team-Avadhi-NIDAR/Scouting_Drone)
 6. [Literature Reviews](https://github.com/Team-Avadhi-NIDAR/Literature_Reviews)
+7. [PPTs](https://github.com/Team-Avadhi-NIDAR/ppts)
 
 ## Members 
 
